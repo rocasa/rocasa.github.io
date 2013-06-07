@@ -1,0 +1,5 @@
+#robots.txt for git.rocasa.org
+
+User-agent: *
+
+

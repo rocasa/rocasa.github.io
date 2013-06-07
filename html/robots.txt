@@ -1,8 +1,0 @@
-#robots.txt for rocasa.com
-
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /icons
-Disallow: /perl
-
-
